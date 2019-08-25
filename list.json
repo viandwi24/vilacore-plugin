@@ -18,12 +18,21 @@
       "email":"fiandwi0424@gmail.com"
    },
    {
-       "name": "Page Edit",
-       "package": "pageEdit",
-       "description": "Edit Plugin Lain Secara GUI.",
-       "version": "1.5.0",
-       "required": "1.0.7",
-       "author": "viandwi24",
-       "email": "fiandwi0424@gmail.com"
+      "name": "Page Edit",
+      "package": "pageEdit",
+      "description": "Edit Plugin Lain Secara GUI.",
+      "version": "1.5.0",
+      "required": "1.0.7",
+      "author": "viandwi24",
+      "email": "fiandwi0424@gmail.com"
+   },
+   {
+      "name": "Simple Homepage", 
+      "package": "homepage", 
+      "description": "Halaman depan simpel dengan bootstrap.", 
+      "version": "1.0.0", 
+      "required": "1.0.8", 
+      "author": "viandwi24", 
+      "email": "fiandwi0424@gmail.com"
    }
 ]
